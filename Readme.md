@@ -1,19 +1,13 @@
 # Learn go with tests
 
-- [] Parent 1
-  - [x] Child - 1
-  - [x] Child - 2
-  - [x] Child - 3
-  - [x] Child - 4
-
 ### Go fundamentals
 
 - [x] Install Go install-go - Set up environment for productivity.
-- [ ] Hello, world hello-world - Declaring variables, constants, if/else statements, switch, write your first go program and write your first test. Sub-test syntax and closures.
+- [x] Hello, world hello-world - Declaring variables, constants, if/else statements, switch, write your first go program and write your first test. Sub-test syntax and closures.
 
 ### out
 
-[ ]Integers integers - Further Explore function declaration syntax and learn new ways to improve the documentation of your code.
+[x]Integers integers - Further Explore function declaration syntax and learn new ways to improve the documentation of your code.
 [ ]Iteration iteration - Learn about `for` and benchmarking.
 [ ]Arrays and slices arrays-and-slices - Learn about arrays, slices, `len`, varargs, `range` and test coverage.
 [ ]Structs, methods & interfaces structs-methods-and-interfaces - Learn about `struct`, methods, `interface` and table driven tests.
