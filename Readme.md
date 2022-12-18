@@ -13,9 +13,9 @@
 - [x] Structs, methods & interfaces structs-methods-and-interfaces - Learn about `struct`, methods, `interface` and table driven tests.
 - [x] Pointers & errors pointers-and-errors - Learn about pointers and errors.
 - [x] Maps maps - Learn about storing values in the map data structure.
-- [ ] Dependency Injection dependency-injection - Learn about dependency injection, how it relates to using interfaces and a primer on io.
-- [ ] Mocking mocking - Take some existing untested code and use DI with mocking to test it.
-- [ ] Concurrency concurrency - Learn how to write concurrent code to make your software faster.
+- [x] Dependency Injection dependency-injection - Learn about dependency injection, how it relates to using interfaces and a primer on io.
+- [x] Mocking mocking - Take some existing untested code and use DI with mocking to test it.
+- [x] Concurrency concurrency - Learn how to write concurrent code to make your software faster.
 - [ ] Select select - Learn how to synchronise asynchronous processes elegantly.
 - [ ] Reflection reflection - Learn about reflection
 - [ ] Sync sync - Learn some functionality from the sync package including `WaitGroup` and `Mutex`
