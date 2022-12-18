@@ -5,7 +5,7 @@
 - [x] Install Go install-go - Set up environment for productivity.
 - [x] Hello, world hello-world - Declaring variables, constants, if/else statements, switch, write your first go program and write your first test. Sub-test syntax and closures.
 
-### out
+### out 
 
 - [x] Integers integers - Further Explore function declaration syntax and learn new ways to improve the documentation of your code.
 - [x]Iteration iteration - Learn about `for` and benchmarking.
